@@ -46,7 +46,7 @@ Unlike some projects, SignVisionAI does **not** rely on MediaPipe for hand track
 
 - **Python** — Core programming language  
 - **OpenCV** — For real-time video capture and image processing  
-- **scikit-learn / TensorFlow / PyTorch** — For building and running the gesture classification model  
+- **scikit-learn / TensorFlow / PyTorch/resnet18/CNN** — For building and running the gesture classification model  
 - **NumPy** — Numerical computations and array manipulations  
 - **Streamlit** — For building the web-based user interface  
 
